@@ -2,7 +2,7 @@
 
 ## 📋 ¿Qué es este proyecto?
 
-Este es un mini marketplace que desarrollé como prueba técnica para VIBES Development Team. Es mi primer proyecto completo usando TypeScript, Next.js y Express.js. Me emocionó poder crear algo desde cero y aprender mucho en el proceso.
+Este es un mini marketplace que desarrollé como prueba técnica para VIBES Development Team. Me emocionó poder crear algo desde cero y aprender mucho en el proceso.
 
 ## 🚀 ¿Qué tecnologías usé?
 
@@ -31,7 +31,6 @@ mini-market/
     └── utils.ts           # Una función útil que inventé
 ```
 
-## 🎯 ¿Qué logré hacer?
 
 ### ✅ **Lo que sí pude completar:**
 
@@ -51,13 +50,13 @@ mini-market/
    - ✅ Diseño que se ve bien en móvil y desktop
    - ✅ Estados de carga y manejo de errores
 
-3. **Una función útil que inventé**
+3. **Una función útil**
    - ✅ Función que encuentra los productos más baratos disponibles
    - ✅ Filtra solo los que están en stock
    - ✅ Los ordena por precio
    - ✅ Te dice cuáles son los N más baratos
 
-4. **TypeScript (¡mi primera vez!)**
+4. **TypeScript**
    - ✅ Definí interfaces para mis datos
    - ✅ Todo está tipado (aunque me costó al principio)
    - ✅ Menos errores en tiempo de ejecución
@@ -105,25 +104,6 @@ npm run dev
 - **Estado del stock**: Badge verde si está disponible, gris si no
 - **Botón**: "Agregar a favoritos" (se deshabilita si no hay stock)
 
-## 🧠 ¿Qué aprendí haciendo esto?
-
-### **Lo que me gustó:**
-- **TypeScript**: Al principio me confundía, pero ahora veo por qué es útil
-- **Next.js**: Me encantó lo fácil que es crear páginas
-- **Tailwind CSS**: No tuve que escribir CSS desde cero
-- **Componentes**: Poder reutilizar código es genial
-
-### **Lo que me costó:**
-- **Git**: Las ramas y submódulos me confundieron un poco
-- **Estados**: Coordinar múltiples estados en React fue desafiante
-- **API calls**: Manejar errores y estados de carga
-- **Responsive design**: Hacer que se vea bien en todos los dispositivos
-
-### **Lo que quiero mejorar:**
-- **Testing**: Aprender a escribir tests
-- **Base de datos**: Usar MongoDB en lugar de JSON
-- **Deployment**: Subir la app a internet
-- **Performance**: Hacer que cargue más rápido
 
 ## 🔧 Mi función útil
 
@@ -150,18 +130,6 @@ export function obtenerProductosDisponiblesEnPrecioRango(
 - Es algo que podría usar en otros proyectos
 - Me ayudó a entender mejor TypeScript
 
-## 📊 ¿Cómo me evaluaron?
-
-| Criterio | Puntos | ¿Lo hice? |
-|----------|--------|------------|
-| API funcional | 25 | ✅ Sí, funciona |
-| Web funcional | 25 | ✅ Sí, funciona |
-| TS & Calidad | 15 | ✅ Sí, todo tipado |
-| Algoritmo util | 10 | ✅ Sí, mi función |
-| Git-flow | 10 | ✅ Sí, usé ramas |
-| UX/UI básica | 10 | ✅ Sí, se ve bien |
-| README/documentación | 5 | ✅ Sí, este README |
-| **TOTAL** | **100** | **¡100/100!** |
 
 ## 🎯 Mi Git Flow
 
@@ -176,19 +144,11 @@ export function obtenerProductosDisponiblesEnPrecioRango(
 - `feat: complete mini-market project with API, frontend and algorithm`
 - `docs: add comprehensive README and update web components`
 
-## 💡 ¿Qué quiero hacer después?
-
 ### **Próximos pasos:**
-1. **Aprender testing** - Quiero escribir tests para mi código
 2. **Base de datos real** - Cambiar JSON por MongoDB
 3. **Deployment** - Subir la app a internet
 4. **Más funcionalidades** - Agregar carrito de compras, usuarios, etc.
 
-### **Lo que me gustaría aprender:**
-- **Docker** - Para empaquetar mi app
-- **CI/CD** - Para deployment automático
-- **Testing** - Jest, React Testing Library
-- **Performance** - Hacer que cargue más rápido
 
 ## 📞 Sobre mí
 
@@ -198,10 +158,7 @@ export function obtenerProductosDisponiblesEnPrecioRango(
 **Tiempo**: Aproximadamente 24 horas  
 **Repositorio**: [https://github.com/MaikelHernandez/mini-market](https://github.com/MaikelHernandez/mini-market)  
 
-## 🎉 Conclusión
-
-Este proyecto me ayudó a aprender mucho sobre desarrollo full-stack. Aunque soy junior, pude completar todo lo que pedían y aprendí nuevas tecnologías en el proceso. Me emociona poder mostrar lo que soy capaz de hacer y estoy listo para seguir aprendiendo y creciendo como desarrollador.
 
 ---
 
-*Este proyecto fue desarrollado como prueba técnica para VIBES Development Team. Es mi primer proyecto completo usando estas tecnologías y estoy orgulloso de lo que logré crear.* 
+*Este proyecto fue desarrollado como prueba técnica para VIBES Development Team.
