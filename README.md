@@ -125,10 +125,6 @@ export function obtenerProductosDisponiblesEnPrecioRango(
 - Los ordena del más barato al más caro
 - Te devuelve los N más baratos
 
-**¿Por qué la hice?**
-- Quería mostrar que puedo escribir funciones útiles
-- Es algo que podría usar en otros proyectos
-- Me ayudó a entender mejor TypeScript
 
 
 ## 🎯 Mi Git Flow
@@ -140,9 +136,6 @@ export function obtenerProductosDisponiblesEnPrecioRango(
 4. Mergeé todo a la rama principal
 5. Subí todo a GitHub
 
-### **Commits que hice:**
-- `feat: complete mini-market project with API, frontend and algorithm`
-- `docs: add comprehensive README and update web components`
 
 ### **Próximos pasos:**
 2. **Base de datos real** - Cambiar JSON por MongoDB
@@ -155,7 +148,7 @@ export function obtenerProductosDisponiblesEnPrecioRango(
 **Nombre**: Maikel Hernandez  
 **Nivel**: Desarrollador Junior  
 **Fecha**: Enero 2025  
-**Tiempo**: Aproximadamente 24 horas  
+**Tiempo**: Aproximadamente 14 horas  
 **Repositorio**: [https://github.com/MaikelHernandez/mini-market](https://github.com/MaikelHernandez/mini-market)  
 
 
